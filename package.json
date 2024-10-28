@@ -45,7 +45,7 @@
     "hasha": "^2.2.0",
     "kew": "^0.7.0",
     "progress": "^1.1.8",
-    "@cypress/request": "^3.0.5",
+    "@cypress/request": "github:"cypress-io/request#master",
     "request-progress": "^2.0.1",
     "which": "^1.2.10"
   },
